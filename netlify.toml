@@ -1,23 +1,23 @@
 [[redirects]]
-  from = "/parenting-who"
-  to = "https://parenting-who-covid-19-act.netlify.com"
+  from = "/parenting-who/*"
+  to = "https://parenting-who-covid-19-act.netlify.com/:splat"
   force = true
   status = 200
 
 [[redirects]]
-  from = "/follow"
-  to = "https://follow-covid-19-act.netlify.com"
+  from = "/follow/*"
+  to = "https://follow-covid-19-act.netlify.com/:splat"
   force = true
   status = 200
 
 [[redirects]]
-  from = "/publish"
-  to = "https://publish-covid-19-act.netlify.com"
+  from = "/publish/*"
+  to = "https://publish-covid-19-act.netlify.com/:splat"
   force = true
   status = 200
 
 [[redirects]]
-  from = "/portal"
-  to = "https://portal-covid-19-act.netlify.com"
+  from = "/portal/*"
+  to = "https://portal-covid-19-act.netlify.com/:splat"
   force = true
   status = 200
