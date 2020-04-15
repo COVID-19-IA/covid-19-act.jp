@@ -1,4 +1,10 @@
 [[redirects]]
+  from = "/"
+  to = "/parenting-who/"
+  force = true
+  status = 302
+
+[[redirects]]
   from = "/parenting-who/*"
   to = "https://parenting-who-covid-19-act.netlify.com/:splat"
   force = true
