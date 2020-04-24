@@ -33,9 +33,3 @@
   to = "https://portal-covid-19-act.netlify.com/:splat"
   status = 200
   force = true
-
-[[redirects]]
-  from = "/ppe/*"
-  to = "https://ppe-covid-19-act.netlify.com/:splat"
-  status = 200
-  force = true
