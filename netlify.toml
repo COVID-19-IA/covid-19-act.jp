@@ -12,7 +12,7 @@
 
 [[redirects]]
   from = "/follow/*"
-  to = "https://follow-covid-19-act.netlify.com/:splat"
+  to = "https://follow-covid-19-act.netlify.com/follow/:splat"
   status = 200
   force = true
 
