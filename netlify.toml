@@ -5,18 +5,6 @@
   force = true
 
 [[redirects]]
-  from = "/publish/"
-  to = "/follow/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/publish"
-  to = "/follow/"
-  status = 301
-  force = true
-
-[[redirects]]
   from = "/parenting-who/*"
   to = "https://parenting-who-covid-19-act.netlify.com/:splat"
   status = 200
@@ -25,12 +13,6 @@
 [[redirects]]
   from = "/follow/*"
   to = "https://follow-covid-19-act.netlify.com/:splat"
-  status = 200
-  force = true
-
-[[redirects]]
-  from = "/portal/*"
-  to = "https://portal-covid-19-act.netlify.com/:splat"
   status = 200
   force = true
 
