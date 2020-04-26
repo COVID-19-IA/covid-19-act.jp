@@ -6,7 +6,7 @@
 
 [[redirects]]
   from = "/parenting-who/*"
-  to = "https://parenting-who-covid-19-act.netlify.com/:splat"
+  to = "https://parenting-who-covid-19-act.netlify.com/parenting-who/:splat"
   status = 200
   force = true
 
